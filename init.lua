@@ -44,4 +44,8 @@ require("lazy").setup({
 pcall(require, "langgeng")
 
 -- Turn on lsp status information
-require("fidget").setup()
+require("fidget").setup({
+    window = {
+        blend = 0,
+    }
+})

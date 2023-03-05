@@ -26,7 +26,6 @@ opt.numberwidth = 2
 opt.ruler = false
 opt.relativenumber = true
 opt.cursorline = true
-opt.background = ""
 
 -- disable nvim intro
 -- shortmess=filnxtToOF

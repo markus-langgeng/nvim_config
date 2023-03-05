@@ -62,7 +62,8 @@ return { -- LSP Configuration & Plugins
             end
 
             -- Setup mason so it can manage external tooling
-            require('mason').setup()
+            require('mason').setup({
+            })
 
             require('neodev').setup()
 

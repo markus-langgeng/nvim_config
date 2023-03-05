@@ -4,8 +4,8 @@ return {
         event = 'VeryLazy',
         opts = {
             options = {
+                theme = 'catppuccin',
                 icons_enabled = true,
-                theme = 'iceberg_dark',
                 -- theme = 'palenight',
                 component_separators = '|',
                 section_separators = '',
