@@ -20,7 +20,6 @@ return {
     name = 'catppuccin',
     config = function()
         require('catppuccin').setup({
-            theme = 'macchiato',
             transparent_background = true,
             term_colors = true,
             integrations = {

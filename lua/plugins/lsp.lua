@@ -101,6 +101,7 @@ return { -- LSP Configuration & Plugins
                         "blade",
                     }
                 },
+                phpactor = {},
             }
 
             -- nvim-cmp supports additional completion capabilities, so broadcast that to servers
