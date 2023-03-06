@@ -4,7 +4,7 @@ return {
         event = 'VeryLazy',
         opts = {
             options = {
-                theme = 'catppuccin',
+                -- theme = 'catppuccin',
                 icons_enabled = true,
                 -- theme = 'palenight',
                 component_separators = '|',
